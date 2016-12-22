@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-extron",
+  "version": "0.0.1",
+  "description": "Eslint configuration for extron software projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roosnic1/eslint-config-extron.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Nicolas Roos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roosnic1/eslint-config-extron/issues"
+  },
+  "homepage": "https://github.com/roosnic1/eslint-config-extron#readme"
+}
