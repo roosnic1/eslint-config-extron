@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/roosnic1/eslint-config-extron/issues"
   },
-  "homepage": "https://github.com/roosnic1/eslint-config-extron#readme"
+  "homepage": "https://github.com/roosnic1/eslint-config-extron#readme",
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-config-airbnb-base": ">=11",
+    "eslint-plugin-import": ">=2.2.0"
+  }
 }
